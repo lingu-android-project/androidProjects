@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vibrantdev5\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b10a610776e076dac5cff4c3815cc76134b1f8dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-f6b3f51fea2420a057edc3f2424769c7313f73cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9af4f552161a5c62fcf09d6ea1d6530f2ef734ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\vibrantdev5\AndroidStudioProjects\WebCrawler\app\build\intermediates\pre-dexed\debug\classes-5c63674e2fc31b23a55896d37fa0c6eef32ce709.jar" />
+    </item>
+
+</items>
